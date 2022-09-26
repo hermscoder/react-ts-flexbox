@@ -1,0 +1,10 @@
+.canvas {
+    height: 100%;
+    background-color: rgb(217, 217, 217);   
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    /* align-items: stretch; */
+    /* justify-content: end; */
+       
+}

@@ -1,0 +1,50 @@
+[
+    {
+        "id": "justify-content",
+        "default": "flex-start",
+        "values": ["flex-start", "flex-end", "center", "space-between", "space-around", "space-evenly"],
+        "selected": "flex-start"
+    }
+    ,{
+        "id": "align-items",
+        "default": "stretch",
+        "values": ["flex-start", "flex-end", "center", "baseline", "stretch"],
+        "selected": "stretch"
+    }
+    ,{
+        "id": "flex-direction",
+        "default": "row",
+        "values": ["row", "row-reverse", "column", "column-reverse"],
+        "selected": "row"
+    }
+    ,{
+        "id": "order",
+        "default": "0",
+        "values": ["0"],
+        "selected": "0"
+    }
+    ,{
+        "id": "align-self",
+        "default": "",
+        "values": ["flex-start", "flex-end", "center", "baseline", "stretch"],
+        "selected": ""
+    }
+    ,{
+        "id": "flex-wrap",
+        "default": "nowrap",
+        "values": ["nowrap", "wrap", "wrap-reverse"],
+        "selected": "nowrap"
+    }
+    ,{
+        "id": "flex-flow",
+        "default": "row nowrap",
+        "values": ["row nowrap"],
+        "selected": "row nowrap"
+    }
+    ,{
+        "id": "align-content",
+        "default": "stretch",
+        "values": ["flex-start", "flex-end", "center", "space-between", "space-around", "space-evenly", "stretch"],
+        "selected": "stretch"
+    }
+]

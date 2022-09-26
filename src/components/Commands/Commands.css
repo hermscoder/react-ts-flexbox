@@ -1,0 +1,28 @@
+.command {
+    height: 100%;
+    background-color: rgb(217, 217, 217);   
+    display: flex;
+    flex: 1 1;
+    justify-content: flex-start;
+    align-content: space-between;
+    flex-direction: column;
+}
+
+.level-text {
+
+}
+
+.level-options {
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+
+}
+/* 
+display: flex;
+height: 200px;
+align-items: stretch;
+background-color: DodgerBlue; */
+
+
